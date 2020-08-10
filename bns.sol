@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2019-04-21
-*/
-
 // File: openzeppelin-solidity/contracts/token/ERC20/IERC20.sol
 
 pragma solidity ^0.5.2;
