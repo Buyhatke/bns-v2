@@ -1,6 +1,6 @@
-// File: openzeppelin-solidity/contracts/token/ERC20/IERC20.sol
-
 pragma solidity ^0.5.2;
+
+// File: openzeppelin-solidity/contracts/token/ERC20/IERC20.sol
 
 /**
  * @title ERC20 interface
